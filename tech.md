@@ -8,7 +8,8 @@
   - enter ! or html:5
   
 ### Dotnet
-- Useful libraries (ref: IAmTimCorey - 10 C# Libraries To Save You Time And Energy): ⭐
+- Useful libraries ⭐
+  - ref: IAmTimCorey - 10 C# Libraries To Save You Time And Energy
   - [ ] Zip - SharpZipLib 
   - [ ] Mail - FluentEmail, MailKit, Papercut SMTP (local smtp server)
   - [ ] Excel import/export: EPPlus
@@ -17,7 +18,8 @@
   - [ ] Polly - handle transient fault, policy for retry, circuit breaker
   - [ ] Logging - Serilog (a substitute for log4net), Seq (structureed logging, log analysis)
   
-- 5 New Features in C# 9.0 (ref: IAmTimCorey) ⭐
+- 5 New Features in C# 9.0 ⭐
+  - ref: IAmTimCorey
   - [ ] Top level Statements
   - [x] property init, can't change after calling constructor, e.g. string Name { get; init } = "Tim";
   - [x] Visual Studio>Tools >Options>Text Editor>C#>Advanced: display 'Inline Parameter name hint'
@@ -29,7 +31,8 @@
   - [ ] With expression
 
 ### Tools
-- Pandoc (a tool to convert file formats, e.g. md to html, online html to offlie html, html to pdf) ⭐
+- Pandoc ⭐
+  - convert file formats, e.g. md to html, online html to offlie html, html to pdf
   - [x] pandoc -f markdown -t html test.txt -o test.html # md to html
   - [x] pandoc -f html -t html https://www.fsf.org # online html to offlie html
 - Send anonymous email [https://www.guerrillamail.com](https://www.guerrillamail.com)
