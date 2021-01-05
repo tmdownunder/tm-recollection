@@ -4,8 +4,8 @@
   - [x] GitHub Docs - Basic writing and formatting syntax ⭐
 
 ### Commands / Shortcuts
-- creat a html skeleton in VS Code
-  - enter ! or html:5
+- create a html skeleton in VS Code
+  - enter ! or html:5 and tab
   
 ### Dotnet
 - Useful libraries ⭐
