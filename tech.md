@@ -2,6 +2,7 @@
 - Markdown
   - [x] [https://www.markdownguide.org/cheat-sheet](https://www.markdownguide.org/cheat-sheet) ⭐
   - [x] GitHub Docs - Basic writing and formatting syntax ⭐
+  - [x] github markdown emoji
 
 ### Commands / Shortcuts
 - create a html skeleton in VS Code
